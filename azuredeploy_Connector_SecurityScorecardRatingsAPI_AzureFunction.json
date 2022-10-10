@@ -188,7 +188,7 @@
                         "LEVEL_RATINGS_CHANGE": "[parameters('LEVEL_RATINGS_CHANGE')]",
                         "Schedule": "[parameters('RatingsSchedule')]",
                         "DIFF_OVERRIDE_OWN_RATINGS": "[parameters('DIFF_OVERRIDE_OWN_RATINGS')]",
-                        "DIFF_OVERRIDE_PORTFOLIO_FACTOR": "[parameters('DIFF_OVERRIDE_PORTFOLIO_RATINGS')]",
+                        "DIFF_OVERRIDE_PORTFOLIO_RATINGS": "[parameters('DIFF_OVERRIDE_PORTFOLIO_RATINGS')]",
                         "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/jayeshprajapaticrest/SSCOverallScore/blob/main/SecurityScorecardRatings.zip?raw=true"
                     }
                 }
